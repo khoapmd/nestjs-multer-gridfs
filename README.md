@@ -48,6 +48,9 @@ $ npm run start:prod
 ## Test
 
 ```bash
+# Swagger tests
+$ http://localhost:3000/api
+
 # unit tests
 $ npm run test
 
