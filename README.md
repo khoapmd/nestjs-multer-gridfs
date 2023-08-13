@@ -50,6 +50,15 @@ $ npm run start:prod
 ```bash
 # Swagger tests
 $ http://localhost:3000/api
+
+# unit tests
+$ npm run test
+
+# e2e tests
+$ npm run test:e2e
+
+# test coverage
+$ npm run test:cov
 ```
 
 ## Support
