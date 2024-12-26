@@ -18,7 +18,7 @@ A NestJS application that provides file upload and management capabilities using
 ## Prerequisites
 
 - Node.js
-- MongoDB running on port 62553
+- MongoDB running on port 27017
 - npm or yarn
 
 ## Installation
